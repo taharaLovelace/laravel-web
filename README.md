@@ -2,10 +2,10 @@
 # Laravel Template
 
 ### Participantes do projeto
-Alexandre Augusto Tescaro Oliveira
-Augusto Guaschi Morato
-Hugo Tahara Menegatti
-João Vitor de Sessa
+Alexandre Augusto Tescaro Oliveira |
+Augusto Guaschi Morato |
+Hugo Tahara Menegatti |
+João Vitor de Sessa |
 Mattheus Gonçalves Anitelli
 
 ### Passo a passo
