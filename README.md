@@ -1,6 +1,13 @@
 
 # Laravel Template
 
+### Participantes do projeto
+Alexandre Augusto Tescaro Oliveira
+Augusto Guaschi Morato
+Hugo Tahara Menegatti
+João Vitor de Sessa
+Mattheus Gonçalves Anitelli
+
 ### Passo a passo
 Clone Repositório criado a partir do template, entre na pasta e execute os comandos abaixo:
 
